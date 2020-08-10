@@ -1,0 +1,138 @@
+<html>
+    <head>
+	      <title>bus</title>
+	  
+	</head>
+	
+	<body>
+          <div>
+		       <h3>First Year Subject</h3>  
+		      <ol>
+		
+			      <li><button type="button" onclick="document.getElementById('mathi').style.display='block'">MATHEMATICS 1</button>
+				    <ul style="list-style-type:disc  ; display:none" id="mathi">
+	 				    <li> Matrix and Linear Algebra</li>
+						<li>Diffrential Calculus -i</li>
+						<li>Diffrential Calculus-ii</li>
+						<li>Sequence and Series</li>
+						<li>Vector Calculus</li>
+					</ul>
+				  </li>
+				  <li><button type="button" onclick="document.getElementById('mathii').style.display='block'">MATHEMATICS 2</button>
+				    <ul style="list-style-type:disc  ; display:none" id="mathii">
+	 				    <li> Ordinary Differential Equtions</li>
+						<li>Series Solutions and Special Function</li>
+						<li>Laplace Transform</li>
+						<li>Partial Diffrential Equations and Fouries Series</li>
+						<li>Molding and Boundry Value Problems</li>
+					</ul>
+				  </li>
+				  <li><button type="button" onclick="document.getElementById('phy').style.display='block'">PHYSICS</button>
+				     <ul style="list-style-type:disc  ; display:none" id="phy">
+					     <li>Relativistic Mechinics</li>
+						<li>Electromagnitic Field Theory</li>
+						<li>Quantum Machinics</li>
+						<li>Wave Optics</li>
+						<li>Fiber Optics and Laser</li>
+						<li>Vectors Mechinics of Particles</li>
+						<li>Rigid Body Motion</li>
+						<li>Relativistics Mechinics</li>
+						<li>Electromagnitic Field Theory</li>
+					 </ul>
+				  </li>
+				  <li><button type="button" onclick="document.getElementById('fee').style.display='block'">FUNDAMENTALS OF ELECTRICAL ENGINEERING</button>
+				     <ul style="list-style-type:disc  ; display:none" id="fee">
+					     <li>Electrical Circuit Analysis</li>
+						<li>Stedy State Analysis of Ac Cuircuit</li>
+						<li>Magnetic Cuircuit and Transformers</li>
+						<li>Electrical Mechines</li>
+						<li>Electrical Measurments and Installations</li>
+					 </ul>
+				  </li>
+				  <li><button type="button" onclick="document.getElementById('ed').style.display='block'">ENGINEERING GRAPHICS AND DESIGN</button>
+				      <ul style="list-style-type:disc  ; display:none" id="ed">
+					     <li>Basic Enhering Graphics and Drawing</li>
+						<li>Projection of Straight Lines</li>
+						<li>Projections of Planes</li>
+						<li>Projectons of Polyhedral Solids of Revolution</li>
+						<li>Devlopment</li>
+						<li>Free sketching</li>
+						<li>Isometric projections</li>
+						<li>Computer Graphics</li>
+					  </ul>
+				  </li>
+				  <li><button type="button" onclick="document.getElementById('pe').style.display='block'">PROFESSIONAL ENGLISH</button>
+				     <ul style="list-style-type:disc  ; display:none" id="pe">
+					     <li>Basics of Communication</li>
+						<li>Lisning and Speaking Skills</li>
+						<li>Readings Skills and its Improvment</li>
+						<li>Writing skills</li>
+						<li>Basics of Grammer and its Common Errors</li>
+					 </ul>
+				  </li>
+				  <li><button type="button" onclick="document.getElementById('wc').style.display='block'">WORKSHOP CONCEPTS</button>
+				     <ul style="list-style-type:disc  ; display:none" id="wc">
+					    <li>Carpintry Shop</li>
+						<li>Fitting Bench Working Shop</li>
+						<li>Welding Shop</li>
+						<li>Sheet Metal Shop</li>
+						<li>Blacksmithy Shop</li>
+						<li>Foundry Shop</li>
+						<li>Mechine Shop</li>
+					 </ul>
+				  </li>
+				  <li><button type="button" onclick="document.getElementById('eme').style.display='block'">ELEMENTS OF MECHINICAL ENGINEERING</button>
+				      <ul style="list-style-type:disc  ; display:none" id="eme">
+					     <li>force system</li>
+						<li>Concept of Center of Gravity and Centroid and Area of Moment <br>of Inertia,Prpendicular Axis Theroem and Parallel Axis Theroem</li>
+						<li>Friction</li>
+						<li>Plane truss</li>
+						<li>Beams</li>
+						<li>Basic Concept odf Thermodynics</li>
+						<li>Introduction to IC Engine</li>
+					  </ul>
+				  </li>
+                  <li><button type="button" onclick="document.getElementById('bee').style.display='block'">BASIC ELECTRONICS ENGINEERING</button>
+				     <ul style="list-style-type:disc  ; display:none"id="bee">
+					    <li>Semeconductor Diodes</li>
+						<li>Biopolar Junction Transistor(BJT)</li>
+						<li>Field Effect Transistor(FET)</li>
+						<li>Number System</li>
+						<li>Basics of Communication Engerring </li>
+					 </ul>
+				  </li>
+                  <li><button type="button" onclick="document.getElementById('che').style.display='block'">CHEMISTRY</button>
+				     <ul style="list-style-type:disc  ; display:none" id="che">
+					    <li>Atomic and Molucular Structure</li>
+						<li>Spectroscopic Techiques and Applicatins</li>
+						<li>Hard Water and its Treatments</li>
+						<li>Phase Rule</li>
+						<li>Electrochemistry</li>
+						<li>Corrosion</li>
+						<li>Lubricats</li>
+						<li>Polymers</li>
+					 </ul>
+				  </li>
+                  <li><button type="button" onclick="document.getElementById('clang').style.display='block'">PROBLEM SOLVING AND COMPUTER PROGRAMING USING C</button>
+				     <ul style="list-style-type:disc  ; display:none" id="clang">
+					     <li>Bacics of Programing</li>
+						<li>Arethematics Expression and Condtional Branching</li>
+						<li>Condtional Programe Excution</li>
+						<li>Functions and Arrays</li>
+						<li>Pointers</li>
+						<li>Structure</li>
+						<li>Union</li>
+						<li>File Handling</li>
+					 </ul>
+				  </li>				   
+			 </ol>
+			
+			 
+		  </div>
+		  
+   
+	</body>
+	
+
+
+</html>
