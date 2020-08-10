@@ -1,3 +1,6 @@
+PHYSICS
+
+
 relativistic mechinics
 electromagnitic field theory
 quantum machinics
@@ -7,6 +10,10 @@ vectors mechinics of particles
 rigid body motion
 relativistics mechinics
 electromagnitic field theory
+
+
+MATHEMATICS 1
+
 
 matrix and linear algebra
 diffrential calcus (1,2)
@@ -18,11 +25,19 @@ laplace transform
 partial diffrential equations and fouries series
 molding and boundry value problems
 
+
+FUNDAMENTALS OF ELECTRICAL ENGINEERING
+
+
 electrical circuit analysis
 stedy state analysis of ac cuircuit
 magnetic cuircuit and transformers
 electrical mechines
 electrical measurments and installations
+
+
+ENGINEERING GRAPHICS AND DESIGN
+
 
 basic enhering graphics and drawing
 projection of straight lines
@@ -31,8 +46,12 @@ projectons of polyhedral solids of revolution
 devlopment
 free sketching
 isometric projections
-computergraphi
-cs
+computergraphics
+
+
+WORKSHOP CONCEPTS
+
+
 carpintry shop
 fitting bench working shop
 welding shop
@@ -41,7 +60,11 @@ blacksmithy shop
 foundry shop
 mechine shop
 
-fource system
+
+ELEMENTS OF MECHINICAL ENGINEERING
+
+
+force system
 concept of center of gravity and centroid and area of moment of inertia,pwrpendicular axis theroem and parallel axis theroem
 friction
 plane truss
@@ -49,16 +72,48 @@ beams
 basic concept odf thermodynics
 introduction to IC engine
 
+
+BASIC ELECTRONICS ENGINEERING
+
+
 semeconductor diodes
 biopolar junction transistor(BJT)
 field effect transistor(FET)
 number system
+basics of communication engerring 
 
-basic of communication engerring
+
+PROFESSIONAL ENGLISH
+
+
 basics of communication
 lisning and speaking skills
 readings skills and its improvment
 writing skills
 basics of grammer and its common errors
- 
 
+
+CHEMISTRY
+
+
+atomic and molucular structure
+spectroscopic techiques and applicatins
+hard water and its treatments
+phase rule
+electrochemistry
+corrosion
+lubricats
+polymers
+
+
+PROBLEM SOLVING AND COMPUTER PROGRAMING USING C
+
+
+bacics of programing
+arethematics expression and condtional branching
+condtional programe excution
+functions and arrays
+pointers
+structure
+union
+file handling
