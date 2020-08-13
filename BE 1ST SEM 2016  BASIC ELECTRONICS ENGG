@@ -1,0 +1,118 @@
+E-1125 
+BE 1st sem 2019       
+                                   BASIC ELECTRONICS ENGG 
+
+
+1. In base band transmission .............…
+
+(a) Original 
+(b)modulated
+(c) Carrier 
+(d)Anolog modulations
+
+2. The Modulation index of an AM wave is changed from O to 1. The transmitted power is: 
+
+(a) Unchanged 
+(b) Halved 
+(c) Doubled
+(d) Increased by 50 percent
+
+3. The barrier potential of silicon diode is about ................ volts.
+
+(a) 1.0 
+(b) 0.7 
+(C) 0.2
+(d) 1.2 
+
+4. For a full wave rectifier root mean square value of current is :
+
+(a) Im
+(b) Im/2
+(c) Im/√2
+(d) √2Im
+
+5. The LED emits light when ................ biased.
+
+(a) Reverse
+(b) Un
+(c) Forward
+(d) None of the above 
+
+6 The transistor act as an amplifier in the ................ region
+
+ (a) Cutoff
+ (b) Saturation
+ (c) Active
+ (d) All
+
+7. In common collector configuration, current amplification factor given as :
+
+ (a)α=IC/IE
+ (b)β=IC/IB
+ (c)γ=IE/IB
+ (d) None of these
+
+8. JFET and MOSFETS are ................ controlled device.
+
+(a) Current 
+(b) Voltage 
+(c) Field
+(d) Power
+
+9.  ................ gate is also known as universal gate.
+
+(a) OR 
+(b) EX-OR
+(c) NAND
+(d) NOT
+
+10. A Half wave rectifier is .............…
+
+(a) Negative clipper 
+(b) Positive damper 
+(c) Filter
+(d) Voltage regulator
+
+
+                                              SECTION 3 
+                                              
+
+1. Explain the operation of transistor as an amplifier. . 
+
+
+2. Give working of bridge rectifier with circuit diagram Also give is input-output wave forms.
+
+3. Convert:
+(i) (5EA339)16 = (?)10 = (?)2
+
+(ii) (21-125)10= (?)2 = (?)8
+
+4. Explain working of diode.
+
+ (a) Unbias condition
+
+ (b) Forward bias 
+
+ (c) Reverse bias 
+
+5. Enlist the difference between BJT and FET. 
+
+
+6. Explain the block diagram of the communication system and describe the function of each element.
+
+
+
+                                    SECTION C 
+
+
+1. A BJT common emitter ampliiier has a potential divider bias using Vcc = 12V, RC = 4KΩ
+ R1 = 20KΩ, R2 = 5kΩ , VBE = 0.6V and β=100 .Determme the operating point. 
+
+2. Explain enhancement type MOSFET with diagram and draw the transfer and output characteristics. 
+
+3. (a) For the network shown determine VL, VR ,I z. and IR.
+
+
+
+
+
