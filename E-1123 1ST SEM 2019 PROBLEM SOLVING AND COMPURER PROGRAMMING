@@ -1,0 +1,58 @@
+                                       SECTION-A
+
+ (State True or False) 
+
+1. Void is not a data type. 
+
+2. Getch( ) is a standard input function. 
+
+3. Break statement cannot be used in switdl statement. 
+
+4. Array is a collection of similar elements.
+
+5. Pointer is not a variable.
+
+6. Structure uses the memory equal to the sum of the memory required by all its elements. 
+
+7. Open is used to create a file. 
+
+8. Size of( ) operator an be used to calculate the size of an array. 
+
+9. && is a relation operator.
+
+10.Nesting of the loops is not possnble in C language.
+
+
+
+
+                                        SECTION-B
+
+
+1.Describe various dta types with syntax and examples availavle in C language. 
+
+2.What In flow Chart ? Draw a flow chart for calculating the area of any tpe of trangle. 
+
+3.Why loops are needed ? Explain with example all the available loops in C language. 
+
+4.Differentiate between Structure and Union with proper examples.
+
+5.Describe dynamic memory allocation and all the available functions used for this purpose.
+
+6. How to handle files in C language ? Explain wuh proper functions. 
+
+
+ 
+                                       SECTION-C
+                                    
+   
+
+
+
+1.What iS an array ? Write a program in C language to display the tables of 1 to 10 numbers. 
+
+2. Whaf is recursnon ? Write a program in C language to calculate the factorial of a number using recursion. 
+
+3. What are the pointer operators ? Write a program in C language to swap two numbers using pointer. 
+
+4. How to handle a file ? Write the syntax with examples of all the primary file handling 
+functions.
